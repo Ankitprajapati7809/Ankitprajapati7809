@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;I+am+Ankit+Kumar+Prajapati;A+Passionate+Web+Developer)](https://git.io/typing-svg)
+
 Hi, I am Ankit Kumar Prajapati, a passionate Web developer with a strong passion for technology. I enjoy exploring new technologies and gaining experience across various fields. I am always open to work and dedicate my time to continuously enhancing my skills.
 # 🌐 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-prajapati-1a5960242/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ankit_prajapati.577/#) 
