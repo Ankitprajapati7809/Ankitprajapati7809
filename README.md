@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&height=120&lines=Hello+%F0%9F%91%8B;I+am+Ankit+Kumar+Prajapati+%F0%9F%98%81;A+Fullstack+Web+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=500&height=120&lines=Hello+%F0%9F%91%8B;I+am+Ankit+Kumar+Prajapati+%F0%9F%98%81;A+Frontend+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Hi, I am Ankit Kumar Prajapati, a passionate Web developer with a strong passion for technology. I enjoy exploring new technologies and gaining experience across various fields. I am always open to work and dedicate my time to continuously enhancing my skills.
 # 🌐 Connect with me:
